@@ -1,0 +1,58 @@
+b
+{
+width:100px;
+height:100px;
+color:white;
+text-transform:capitalise;
+text-decoration:none;
+font-style:italic;
+
+letter-spacing:3px;
+}
+h1
+{
+color:white; 
+text-align:center;
+font-style:italic;
+}
+h3
+{
+color:white;
+font-style:italic;
+letter-spacing:3px;
+}
+.sh
+{
+	text-align:left;
+	
+	display:flex;
+	flex-direction: row;
+	margin:20px;
+	
+}
+.sathwik
+{
+	
+	text-align:center;
+	display:flex;
+	flex-direction: row;
+	margin:20px;
+	
+}
+.si
+{
+	display:flex;
+	flex-direction:row;
+}
+.oo
+{
+	flex-direction:row;
+	display:flex;
+	text-indent:0.5cm;
+}
+.po
+{
+	display:flex;
+	flex-direction:row;
+}
+
